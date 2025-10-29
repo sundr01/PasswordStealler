@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WSCPPasswordStealler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f999ef210ec9e3302ce1ff0b5c97a5f3c1383407")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+febecac6ae04404792f00827ae2259f755ce7258")]
 [assembly: System.Reflection.AssemblyProductAttribute("WSCPPasswordStealler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WSCPPasswordStealler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
