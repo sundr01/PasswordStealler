@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PasswordStealler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f999ef210ec9e3302ce1ff0b5c97a5f3c1383407")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+954376196bd3f0f4e3f17c3228cde779bc0f6db4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PasswordStealler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PasswordStealler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
