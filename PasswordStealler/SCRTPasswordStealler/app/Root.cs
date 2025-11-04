@@ -4,7 +4,8 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Security.Cryptography;
 using System.Text;
-
+using SCRTPasswordStealler.iniParser;
+using System.Net.NetworkInformation;
 
 internal static class Root
 {
@@ -127,9 +128,9 @@ internal static class Root
     {
         private readonly byte[] _configPassphraseUtf8;
 
-        public SecureCRTCryptoV2(string configPassphrase = "")
+        public SecureCRTCryptoV2(string configPassphrase)
         {
-            _configPassphraseUtf8 = Encoding.UTF8.GetBytes(configPassphrase ?? "");
+            _configPassphraseUtf8 = Encoding.UTF8.GetBytes(configPassphrase);
         }
 
         /// <summary>
@@ -182,9 +183,9 @@ internal static class Root
 
                 // заменяем all на чистый шифротекст без соли
                 all = ciphertextBytes;
-                Console.WriteLine($"salt = {Bytes.ToHex(salt)}");
-                Console.WriteLine($"key  = {Bytes.ToHex(kiv.AsSpan(0, 32).ToArray())}");
-                Console.WriteLine($"iv   = {Bytes.ToHex(kiv.AsSpan(32, 16).ToArray())}");
+                //Console.WriteLine($"salt = {Bytes.ToHex(salt)}");
+                //Console.WriteLine($"key  = {Bytes.ToHex(kiv.AsSpan(0, 32).ToArray())}");
+                //Console.WriteLine($"iv   = {Bytes.ToHex(kiv.AsSpan(32, 16).ToArray())}");
             }
             else
             {
@@ -235,18 +236,47 @@ internal static class Root
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"Is64BitProcess = {Environment.Is64BitProcess}");
+            //Console.WriteLine($"Is64BitProcess = {Environment.Is64BitProcess}");
+            string pathToIniFolder = "";
+            string masterPassword = "";
+            string prefix = "03";
 
+            for (int i = 0; i < args.Length; i++)
+            {
+                if (args[i] == "-p" && i + 1 < args.Length)
+                {
+                    pathToIniFolder = args[i + 1];
+                    i++;
+                }
+                else if (args[i] == "-master" && i + 1 < args.Length)
+                {
+                    masterPassword = args[i + 1];
+                    i++;
+                }
+                else if (args[i] == "-prefix" && i + 1 < args.Length)
+                {
+                    prefix = args[i + 1];
+                    i++;
+                }
+            }
+            //Directoyies directoyies = new Directoyies("");
+            IniFilesPath files = new IniFilesPath(pathToIniFolder);
+            List<Connection> connections = files.ParserConnections();
+            
 
-            var crypto = new SecureCRTCryptoV2(configPassphrase: "");
+            var crypto = new SecureCRTCryptoV2(masterPassword);
 
             try
             {
-                string hex = "ea49b80997c45628cc8300fa9c60894eb79803dba1d8f8168cee7587d8314681fe4db810d5032af958177e61a331a49e6849f4038b360320d1be6016e951ebfc9728192a256f8b9dbcee49ec65e14157" /* сюда HEX без пробелов; если у тебя префикс хранится вне HEX, передай prefix="03" */;
-            
-                string clear = crypto.Decrypt(hex, prefix: "03");
+                foreach(Connection connection in connections)
+                {
+                    string hex = connection.password;
 
-                Console.WriteLine(clear);
+                    string clear = crypto.Decrypt(hex, prefix);
+
+                    Console.WriteLine(clear);
+                }
+                
             }
             catch (Exception ex)
             {
@@ -255,4 +285,4 @@ internal static class Root
         }
 
     }
-}
+    }
