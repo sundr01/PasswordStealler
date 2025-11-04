@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SCRTPasswordStealler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+954376196bd3f0f4e3f17c3228cde779bc0f6db4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c498e4809007e8ff3a0db3cae3bbf48572780fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("SCRTPasswordStealler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SCRTPasswordStealler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

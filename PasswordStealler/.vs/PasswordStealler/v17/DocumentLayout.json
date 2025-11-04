@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9E4E020-4854-20EE-C040-9B351A019339}|SCRTPasswordStealler\\SCRTPasswordStealler.csproj|c:\\users\\danil\\desktop\\gitprojects\\mrremotengpassworddecryptor\\passwordstealler\\scrtpasswordstealler\\app\\native.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9E4E020-4854-20EE-C040-9B351A019339}|SCRTPasswordStealler\\SCRTPasswordStealler.csproj|solutionrelative:scrtpasswordstealler\\app\\native.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9E4E020-4854-20EE-C040-9B351A019339}|SCRTPasswordStealler\\SCRTPasswordStealler.csproj|c:\\users\\danil\\desktop\\gitprojects\\mrremotengpassworddecryptor\\passwordstealler\\scrtpasswordstealler\\app\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E4E020-4854-20EE-C040-9B351A019339}|SCRTPasswordStealler\\SCRTPasswordStealler.csproj|solutionrelative:scrtpasswordstealler\\app\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E4E020-4854-20EE-C040-9B351A019339}|SCRTPasswordStealler\\SCRTPasswordStealler.csproj|c:\\users\\danil\\desktop\\gitprojects\\mrremotengpassworddecryptor\\passwordstealler\\scrtpasswordstealler\\app\\blowfish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E4E020-4854-20EE-C040-9B351A019339}|SCRTPasswordStealler\\SCRTPasswordStealler.csproj|solutionrelative:scrtpasswordstealler\\app\\blowfish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E4E020-4854-20EE-C040-9B351A019339}|SCRTPasswordStealler\\SCRTPasswordStealler.csproj|c:\\users\\danil\\desktop\\gitprojects\\mrremotengpassworddecryptor\\passwordstealler\\scrtpasswordstealler\\native_kdf_legacy\\bcrypt_compat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9E4E020-4854-20EE-C040-9B351A019339}|SCRTPasswordStealler\\SCRTPasswordStealler.csproj|solutionrelative:scrtpasswordstealler\\native_kdf_legacy\\bcrypt_compat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E4E020-4854-20EE-C040-9B351A019339}|SCRTPasswordStealler\\SCRTPasswordStealler.csproj|c:\\users\\danil\\desktop\\gitprojects\\mrremotengpassworddecryptor\\passwordstealler\\scrtpasswordstealler\\native_kdf_legacy\\blowfish.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9E4E020-4854-20EE-C040-9B351A019339}|SCRTPasswordStealler\\SCRTPasswordStealler.csproj|solutionrelative:scrtpasswordstealler\\native_kdf_legacy\\blowfish.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B134E0D-592A-4FEE-DEF3-07797C3E41A8}|..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_07a1a93c\\SingleFileISense\\_sfi_7cb8bf77-7a9a-4a73-8ca7-7bf16a13c76f_.vcxproj|C:\\USERS\\DANIL\\DESKTOP\\GITPROJECTS\\MRREMOTENGPASSWORDDECRYPTOR\\PASSWORDSTEALLER\\SCRTPASSWORDSTEALLER\\NATIVE_KDF_LEGACY\\BLF.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B134E0D-592A-4FEE-DEF3-07797C3E41A8}|..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_07a1a93c\\SingleFileISense\\_sfi_7cb8bf77-7a9a-4a73-8ca7-7bf16a13c76f_.vcxproj|solutionrelative:SCRTPASSWORDSTEALLER\\NATIVE_KDF_LEGACY\\BLF.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D9E67B-24A7-4651-A32C-0C1AB3FE0588}|WSCPPasswordStealler\\WSCPPasswordStealler.csproj|c:\\users\\danil\\desktop\\gitprojects\\mrremotengpassworddecryptor\\passwordstealler\\wscppasswordstealler\\wscppasswordstealler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23D9E67B-24A7-4651-A32C-0C1AB3FE0588}|WSCPPasswordStealler\\WSCPPasswordStealler.csproj|solutionrelative:wscppasswordstealler\\wscppasswordstealler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EDFA04-33C7-4EB2-A80B-C21045056B3E}|PasswordStealler\\PasswordStealler.csproj|c:\\users\\danil\\desktop\\gitprojects\\mrremotengpassworddecryptor\\passwordstealler\\passwordstealler\\factories\\icryptographyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EDFA04-33C7-4EB2-A80B-C21045056B3E}|PasswordStealler\\PasswordStealler.csproj|solutionrelative:passwordstealler\\factories\\icryptographyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23D9E67B-24A7-4651-A32C-0C1AB3FE0588}|WSCPPasswordStealler\\WSCPPasswordStealler.csproj|c:\\users\\danil\\desktop\\gitprojects\\mrremotengpassworddecryptor\\passwordstealler\\wscppasswordstealler\\parser\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{02EDFA04-33C7-4EB2-A80B-C21045056B3E}|PasswordStealler\\PasswordStealler.csproj|c:\\users\\danil\\desktop\\gitprojects\\mrremotengpassworddecryptor\\passwordstealler\\passwordstealler\\confparser\\confparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02EDFA04-33C7-4EB2-A80B-C21045056B3E}|PasswordStealler\\PasswordStealler.csproj|solutionrelative:passwordstealler\\confparser\\confparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23D9E67B-24A7-4651-A32C-0C1AB3FE0588}|WSCPPasswordStealler\\WSCPPasswordStealler.csproj|c:\\users\\danil\\desktop\\gitprojects\\mrremotengpassworddecryptor\\passwordstealler\\wscppasswordstealler\\wscppasswordstealler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{23D9E67B-24A7-4651-A32C-0C1AB3FE0588}|WSCPPasswordStealler\\WSCPPasswordStealler.csproj|solutionrelative:wscppasswordstealler\\wscppasswordstealler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02EDFA04-33C7-4EB2-A80B-C21045056B3E}|PasswordStealler\\PasswordStealler.csproj|c:\\users\\danil\\desktop\\gitprojects\\mrremotengpassworddecryptor\\passwordstealler\\passwordstealler\\factories\\cryptoproviderfactoryfromxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{02EDFA04-33C7-4EB2-A80B-C21045056B3E}|PasswordStealler\\PasswordStealler.csproj|solutionrelative:passwordstealler\\factories\\cryptoproviderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02EDFA04-33C7-4EB2-A80B-C21045056B3E}|PasswordStealler\\PasswordStealler.csproj|c:\\users\\danil\\desktop\\gitprojects\\mrremotengpassworddecryptor\\passwordstealler\\passwordstealler\\factories\\icryptographyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02EDFA04-33C7-4EB2-A80B-C21045056B3E}|PasswordStealler\\PasswordStealler.csproj|solutionrelative:passwordstealler\\factories\\icryptographyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{02EDFA04-33C7-4EB2-A80B-C21045056B3E}|PasswordStealler\\PasswordStealler.csproj|c:\\users\\danil\\desktop\\gitprojects\\mrremotengpassworddecryptor\\passwordstealler\\passwordstealler\\factories\\icryptoproviderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02EDFA04-33C7-4EB2-A80B-C21045056B3E}|PasswordStealler\\PasswordStealler.csproj|solutionrelative:passwordstealler\\factories\\icryptoproviderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -70,24 +86,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bcrypt_compat.c",
+              "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\SCRTPasswordStealler\\native_kdf_legacy\\bcrypt_compat.c",
+              "RelativeDocumentMoniker": "SCRTPasswordStealler\\native_kdf_legacy\\bcrypt_compat.c",
+              "ToolTip": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\SCRTPasswordStealler\\native_kdf_legacy\\bcrypt_compat.c",
+              "RelativeToolTip": "SCRTPasswordStealler\\native_kdf_legacy\\bcrypt_compat.c",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-04T11:56:19.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "blf.h",
+              "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\SCRTPasswordStealler\\native_kdf_legacy\\blf.h",
+              "RelativeDocumentMoniker": "SCRTPasswordStealler\\native_kdf_legacy\\blf.h",
+              "ToolTip": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\SCRTPasswordStealler\\native_kdf_legacy\\blf.h",
+              "RelativeToolTip": "SCRTPasswordStealler\\native_kdf_legacy\\blf.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-04T11:47:29.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Native.cs",
-              "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\SCRTPasswordStealler\\app\\Native.cs",
-              "RelativeDocumentMoniker": "SCRTPasswordStealler\\app\\Native.cs",
-              "ToolTip": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\SCRTPasswordStealler\\app\\Native.cs",
-              "RelativeToolTip": "SCRTPasswordStealler\\app\\Native.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Root.cs",
+              "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\SCRTPasswordStealler\\app\\Root.cs",
+              "RelativeDocumentMoniker": "SCRTPasswordStealler\\app\\Root.cs",
+              "ToolTip": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\SCRTPasswordStealler\\app\\Root.cs",
+              "RelativeToolTip": "SCRTPasswordStealler\\app\\Root.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T13:27:23.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "blowfish.c",
+              "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\SCRTPasswordStealler\\native_kdf_legacy\\blowfish.c",
+              "RelativeDocumentMoniker": "SCRTPasswordStealler\\native_kdf_legacy\\blowfish.c",
+              "ToolTip": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\SCRTPasswordStealler\\native_kdf_legacy\\blowfish.c",
+              "RelativeToolTip": "SCRTPasswordStealler\\native_kdf_legacy\\blowfish.c",
+              "ViewState": "AgIAABACAAAAAAAAAAAAAL0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-04T11:23:59.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "blowfish.cs",
+              "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\SCRTPasswordStealler\\app\\blowfish.cs",
+              "RelativeDocumentMoniker": "SCRTPasswordStealler\\app\\blowfish.cs",
+              "ToolTip": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\SCRTPasswordStealler\\app\\blowfish.cs",
+              "RelativeToolTip": "SCRTPasswordStealler\\app\\blowfish.cs",
+              "ViewState": "AgIAAMEBAAAAAAAAAAAuwBMCAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:05:14.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "WSCPPasswordStealler.csproj",
               "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\WSCPPasswordStealler\\WSCPPasswordStealler.csproj",
               "RelativeDocumentMoniker": "WSCPPasswordStealler\\WSCPPasswordStealler.csproj",
@@ -95,11 +163,12 @@
               "RelativeToolTip": "WSCPPasswordStealler\\WSCPPasswordStealler.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-29T20:25:58.952Z"
+              "WhenOpened": "2025-10-29T20:25:58.952Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Parser.cs",
               "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\WSCPPasswordStealler\\Parser\\Parser.cs",
               "RelativeDocumentMoniker": "WSCPPasswordStealler\\Parser\\Parser.cs",
@@ -107,12 +176,11 @@
               "RelativeToolTip": "WSCPPasswordStealler\\Parser\\Parser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T20:25:54.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T20:25:54.571Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Root.cs",
               "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\WSCPPasswordStealler\\App\\Root.cs",
               "RelativeDocumentMoniker": "WSCPPasswordStealler\\App\\Root.cs",
@@ -124,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "ICryptographyProvider.cs",
               "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\PasswordStealler\\Factories\\ICryptographyProvider.cs",
               "RelativeDocumentMoniker": "PasswordStealler\\Factories\\ICryptographyProvider.cs",
@@ -132,11 +200,12 @@
               "RelativeToolTip": "PasswordStealler\\Factories\\ICryptographyProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T17:34:03.186Z"
+              "WhenOpened": "2025-10-16T17:34:03.186Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "ConfParser.cs",
               "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\PasswordStealler\\ConfParser\\ConfParser.cs",
               "RelativeDocumentMoniker": "PasswordStealler\\ConfParser\\ConfParser.cs",
@@ -148,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Root.cs",
               "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\PasswordStealler\\App\\Root.cs",
               "RelativeDocumentMoniker": "PasswordStealler\\App\\Root.cs",
@@ -160,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Aead.cs",
               "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\PasswordStealler\\Decryption\\Aead.cs",
               "RelativeDocumentMoniker": "PasswordStealler\\Decryption\\Aead.cs",
@@ -172,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "ICryptoProviderFactory.cs",
               "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\PasswordStealler\\Factories\\ICryptoProviderFactory.cs",
               "RelativeDocumentMoniker": "PasswordStealler\\Factories\\ICryptoProviderFactory.cs",
@@ -184,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "CryptoProviderFactory.cs",
               "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\PasswordStealler\\Factories\\CryptoProviderFactory.cs",
               "RelativeDocumentMoniker": "PasswordStealler\\Factories\\CryptoProviderFactory.cs",
@@ -196,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "CryptoProviderFactoryFromXml.cs",
               "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\PasswordStealler\\Factories\\CryptoProviderFactoryFromXml.cs",
               "RelativeDocumentMoniker": "PasswordStealler\\Factories\\CryptoProviderFactoryFromXml.cs",
@@ -208,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Pkcs5S2KeyGenerator.cs",
               "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\PasswordStealler\\Decryption\\Pkcs5S2KeyGenerator.cs",
               "RelativeDocumentMoniker": "PasswordStealler\\Decryption\\Pkcs5S2KeyGenerator.cs",
@@ -220,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "SecureStringExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\PasswordStealler\\Decryption\\SecureStringExtensions.cs",
               "RelativeDocumentMoniker": "PasswordStealler\\Decryption\\SecureStringExtensions.cs",
@@ -232,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "BlockCipherModes.cs",
               "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\PasswordStealler\\Decryption\\BlockCipherModes.cs",
               "RelativeDocumentMoniker": "PasswordStealler\\Decryption\\BlockCipherModes.cs",
@@ -244,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "BlockCipherEngines.cs",
               "DocumentMoniker": "C:\\Users\\Danil\\Desktop\\GitProjects\\mRremoteNgPasswordDecryptor\\PasswordStealler\\PasswordStealler\\Decryption\\BlockCipherEngines.cs",
               "RelativeDocumentMoniker": "PasswordStealler\\Decryption\\BlockCipherEngines.cs",
