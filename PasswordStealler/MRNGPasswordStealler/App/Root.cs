@@ -10,9 +10,6 @@ using PasswordStealler.Decryption;
 using PasswordStealler.Factories;
 using System;
 using System.IO;
-using System.Runtime.InteropServices;
-using System.Security;
-using System.Text;
 using System.Xml.Linq;
 using PasswordStealler.ConfParser;
 

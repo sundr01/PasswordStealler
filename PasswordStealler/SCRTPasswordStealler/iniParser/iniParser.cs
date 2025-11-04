@@ -1,6 +1,5 @@
-﻿using Org.BouncyCastle.Asn1;
-using System.Text.RegularExpressions;
-using static System.Collections.Specialized.BitVector32;
+﻿using System.Text.RegularExpressions;
+
 
 
 namespace SCRTPasswordStealler.iniParser

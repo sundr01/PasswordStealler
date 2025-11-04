@@ -1,8 +1,5 @@
-﻿using Org.BouncyCastle.Tls;
-using System;
-using System.Security.Cryptography;
-using System.Text;
-using static System.Runtime.InteropServices.JavaScript.JSType;
+﻿using System.Text;
+
 
 namespace SecureCRTCompat
 {

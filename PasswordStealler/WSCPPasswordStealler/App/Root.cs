@@ -1,6 +1,4 @@
-﻿using System.Data.SqlTypes;
-using System.Runtime.CompilerServices;
-using System.Text;
+﻿using System.Text;
 using static WSCPPasswordStealler.Parser;
 
 
@@ -10,8 +8,20 @@ namespace WSCPPasswordStealler
     {
         static void Main(string[] args)
         {
+            string pathToConfig = "";
+            
+
+            for (int i = 0; i < args.Length; i++)
+            {
+                if (args[i] == "-p" && i + 1 < args.Length)
+                {
+                    pathToConfig = args[i + 1];
+                    i++;
+                }
+               
+            }
             Parser p = new Parser();
-            List<Connection> connections = p.ParserConnections("");
+            List<Connection> connections = p.ParserConnections(pathToConfig);
             foreach(Connection c in connections)
             {
                 

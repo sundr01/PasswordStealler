@@ -1,11 +1,8 @@
 ﻿using SecureCRTCompat;
-using System;
-using System.Linq;
-using System.Runtime.InteropServices;
 using System.Security.Cryptography;
 using System.Text;
 using SCRTPasswordStealler.iniParser;
-using System.Net.NetworkInformation;
+
 
 internal static class Root
 {
